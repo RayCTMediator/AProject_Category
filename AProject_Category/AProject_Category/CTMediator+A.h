@@ -15,6 +15,7 @@
 
  
 
+- (UIViewController *)A_aViewController;
 @end
 
 
