@@ -11,10 +11,9 @@
 
 @interface CTMediator (A)
 
--(UIViewController*)A_aViewController;
+-(UIViewController*)getAViewController;
 
-- (UIViewController *)B_viewControllerWithContentText:(NSString *)contentText;
-
+ 
 
 @end
 
